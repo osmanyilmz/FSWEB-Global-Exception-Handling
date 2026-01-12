@@ -1,6 +1,7 @@
 package com.workintech.zoo;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.workintech.s17d2.ResultAnalyzer;
 import com.workintech.zoo.entity.Kangaroo;
 import com.workintech.zoo.entity.Koala;
 import com.workintech.zoo.exceptions.ZooErrorResponse;
